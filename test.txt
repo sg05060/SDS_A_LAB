@@ -1,6 +1,0 @@
-#test
-#test2
-<<<<<<< HEAD
-#test3
-=======
->>>>>>> cdccc9ec0c68f8fd4286e012501fbb0525638a58
