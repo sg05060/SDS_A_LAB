@@ -1,0 +1,60 @@
+[33mcommit b918a7f07a97c5df3f4cb32261487535bf338ae6[m[33m ([m[1;36mHEAD -> [m[1;32mmain[m[33m, [m[1;31morigin/main[m[33m, [m[1;31morigin/HEAD[m[33m)[m
+Author: gju06051 <gju06051@gmail.com>
+Date:   Thu Feb 24 23:21:44 2022 +0900
+
+    make lab directory for sorting files
+
+[33mcommit ec26e8d18cd741991b765105a01a73ed300956ff[m
+Merge: a99acb5 cdccc9e
+Author: gju06051 <gju06051@gmail.com>
+Date:   Wed Feb 16 20:39:28 2022 +0900
+
+    test3
+
+[33mcommit a99acb50fa5628ac1ed445d856a4da0205ea74de[m
+Author: gju06051 <gju06051@gmail.com>
+Date:   Wed Feb 16 20:38:30 2022 +0900
+
+    test3
+
+[33mcommit cdccc9ec0c68f8fd4286e012501fbb0525638a58[m
+Merge: e92dc23 70dac05
+Author: sg05060 <81350669+sg05060@users.noreply.github.com>
+Date:   Wed Feb 16 20:36:09 2022 +0900
+
+    Merge pull request #2 from gju06051/main
+    
+    test2
+
+[33mcommit b51f79cd87fa651d4ea92a1c272204ba78126e88[m
+Author: gju06051 <gju06051@gmail.com>
+Date:   Wed Feb 16 20:34:51 2022 +0900
+
+    test2
+
+[33mcommit 70dac05be8871fac736acb3486e12e5d00e1e18c[m
+Author: gju06051 <gju06051@gmail.com>
+Date:   Wed Feb 16 20:33:07 2022 +0900
+
+    test2
+
+[33mcommit e92dc23a489c817bdd9036dbe770cf47fba120a9[m
+Merge: 4bd2037 784ad4e
+Author: sg05060 <81350669+sg05060@users.noreply.github.com>
+Date:   Wed Feb 16 20:31:13 2022 +0900
+
+    Merge pull request #1 from gju06051/main
+    
+    test
+
+[33mcommit 784ad4e8f8932bc7a5df8cae71e7d232794b8e0b[m
+Author: gju06051 <gju06051@gmail.com>
+Date:   Wed Feb 16 20:30:24 2022 +0900
+
+    test
+
+[33mcommit 4bd20374f1ee8970cc49f31a58ffae068c5691bc[m
+Author: sg05060 <psh2018314072@gmail.com>
+Date:   Wed Feb 16 20:23:11 2022 +0900
+
+    first commit
