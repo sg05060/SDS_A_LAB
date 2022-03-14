@@ -45,5 +45,5 @@
 // hint : $signed() 와 Combine operation을 모두 사용해야 한다.
 
 // fill your code here
-    wire signed [4:0] result = $signed(num_1)+num_2;
+    wire signed [4:0] result = $signed(num_1) + num_2;
 //-------------------------------------
